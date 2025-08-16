@@ -1,0 +1,14 @@
+# Build artifacts
+/build/
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+.DS_Store
+.vscode/
+.idea/
